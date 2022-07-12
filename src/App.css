@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+.BTS {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  margin: auto;
+  display: block;
+}
+
+.BTS2 {
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+  margin: auto;
+  display: block;
+}
+
+.BTS3 {
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+  margin-left: 260px;
+}

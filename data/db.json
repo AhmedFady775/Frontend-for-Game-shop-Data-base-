@@ -1,0 +1,14 @@
+{
+  "Player": [
+    {
+      "name": "dasfsd",
+      "email": "asdfsd@sdafsd.com",
+      "password_digest": "asdf",
+      "start_date": "2022-05-05",
+      "id": 1
+    }
+  ],
+  "Character": [],
+  "Item": [],
+  "Reward": []
+}

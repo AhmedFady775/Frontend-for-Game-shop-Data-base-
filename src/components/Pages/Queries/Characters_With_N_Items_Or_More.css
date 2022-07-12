@@ -1,0 +1,57 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: "lato", sans-serif;
+}
+
+.Characters_With_N_Items_Or_More__Background {
+  background: rgb(65, 0, 80);
+  background: linear-gradient(
+    90deg,
+    rgba(65, 0, 80, 1) 0%,
+    rgba(76, 0, 143, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 719px;
+}
+
+.Characters_With_N_Items_Or_More__Information {
+  background-color: white;
+  width: 800px;
+  min-height: 600px;
+  border-radius: 8px;
+  padding: 20px 40px;
+  box-shadow: 0 10px 25px rgba(92, 99, 105, 0.2);
+}
+
+.title2 {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
+
+.list {
+  color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.list1 {
+  margin-top: 50px;
+}
+
+.list2 {
+  text-decoration: none;
+}
+
+.list:hover {
+  color: purple;
+}
